@@ -12,7 +12,7 @@ version = "0.18.0~ynh1"
 maintainers = ["eric_G"]
 
 [upstream]
-license = "free"
+license = "AGPL-3.0"
 website = "https://homebox.software/en/"
 demo = "https://demo.homebox.software/home"
 admindoc = "https://homebox.software/en/"
