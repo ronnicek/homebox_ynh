@@ -1,1 +1,1 @@
-Ceci est une fausse description des fonctionalités de l'app
+HomeBox est le système d'inventaire et d'organisation conçu pour l'utilisateur à domicile ! En mettant l'accent sur la simplicité et la facilité d'utilisation, Homebox est la solution parfaite pour vos besoins en matière d'inventaire, d'organisation et de gestion de la maison.
